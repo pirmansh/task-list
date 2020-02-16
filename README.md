@@ -1,3 +1,0 @@
-# Latihan Membuat Task List
-
-
